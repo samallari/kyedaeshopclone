@@ -1,0 +1,42 @@
+body {
+  background-color: #dddddd;
+  font-family: "Varta", sans-serif;
+  font-weight: 600;
+  margin-left: auto;
+}
+
+header {
+  background-color: #e4bdb3;
+  color: #f4f4f5;
+}
+
+h2, h6 {
+  color: #e4bdb3;
+  font-weight: 700;
+}
+
+small {
+  font-size: 16px;
+}
+
+.products, .apparel {
+  background-color: #f0f0f0;
+}
+
+.products img {
+  width: 100%;
+}
+
+footer {
+  background-color: #5b5b5b;
+  color: #f4f4f5;
+  font-size: 18px;
+  font-weight: 200;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+footer i {
+  color: #e4bdb3;
+
+}
